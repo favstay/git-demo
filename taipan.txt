@@ -3,3 +3,5 @@ this is my file
 this is my 2nd line
 
 this is my 3rd line
+
+this is my 4th line
